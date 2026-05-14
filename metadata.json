@@ -1,0 +1,5 @@
+{
+  "name": "Visual Novel Engine",
+  "description": "A web-based 2D Visual Novel engine with script, scene, and character editors.",
+  "requestFramePermissions": []
+}
